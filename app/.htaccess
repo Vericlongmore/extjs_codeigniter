@@ -1,0 +1,4 @@
+RewriteEngine on   
+RewriteCond $1 !^(index\.php|images|js|css|develop|.js|.css|www|robots\.txt) 
+RewriteRule ^(.*)$ /mmo168/index.php/$1 [L]
+
