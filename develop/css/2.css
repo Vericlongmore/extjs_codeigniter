@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+/*.blue_bg{height:100%;background:url(../images/bg2.jpg)}*/
+.blue_bg{height:100%;background:#1e71b1;}
+#s2 div{background:url(../images/skinbt.png) no-repeat -14px -22px;}

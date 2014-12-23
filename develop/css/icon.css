@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+.add {background:url('../images/add.gif') no-repeat !important;}
+.option {background:url('../images/plugin.gif') no-repeat !important;}
+.remove {background:url('../images/delete.gif') no-repeat !important;}
+.search {background:url('../images/search.png') no-repeat !important;}
+.0537536 {width:16px;height:16px;margin-right:4px;background:url('../images/0537536.gif') no-repeat !important;}
+.refresh {background:url('../images/045631468.gif') no-repeat !important;}
+.total {background:url('../images/053753288.gif') no-repeat !important;}
+.clothes{background:url('../images/male.gif') no-repeat !important;}
+.food{	background:url('../images/food.gif') no-repeat !important;}
+.rent{	background:url('../images/rent.gif') no-repeat !important;}
+.go{background:url('../images/go.gif') no-repeat !important;}
+.user{background:url('../images/user.gif') no-repeat !important;}
+.dollar{background:url('../images/dollar.gif') no-repeat !important;}
+.home{background:url('../images/home.gif') no-repeat !important;}
+
+.add{background:url('../images/add.gif') no-repeat !important;}
+.generate_xml{background:url('../images/045631825.gif') no-repeat 1px 2px !important;}
+.option {background:url('../images/plugin.gif') no-repeat !important;}
+.remove {background:url('../images/delete.gif') no-repeat !important;}
+.search {background:url('../images/search.png') no-repeat !important;}
+.0537536 {width:16px;height:16px;margin-right:4px;background:url('../images/0537536.gif') no-repeat !important;}
+.refresh {background:url('../images/refresh.gif') no-repeat !important;}
+.refresh2 {background-image:url('../images/04563150.gif') no-repeat !important;}
+.login {background:url('../images/male.gif') no-repeat !important;}
+.home {background:url('../images/053753258.gif') no-repeat !important;}
+.community {background:url('../images/053753216.gif') no-repeat !important;}
+.system{background:url('../images/053753199.gif') no-repeat !important;}
+.special{background:url('../images/05375335.gif') no-repeat !important;}
+.bulletin{background:url('../images/045631391.gif') no-repeat !important;}
+.searchCss{background:url('../images/search.png') no-repeat !important;}
+.up{background:url('../images/04563142.gif') no-repeat !important;}
+.ulevel{background:url('../images/045631459.gif') no-repeat !important;}
+.upload-icon {background: url('../images/image_add.png') no-repeat !important;}
+.icon-grid {background:url('../images/grid.png') no-repeat !important;}
+.icon-accordion{background:url('../images/accordion.gif') !important;}
+.icon-panel{background:url('../images/panel.png') !important;}
+.accordion{background:url('../images/053753258.gif') !important;}
+.docx{background:url('../images/docx.png') no-repeat !important;}
+.pie_chart{background:url('../images/045631216.gif') no-repeat !important;}
+.curve{background:url('../images/045631207.gif') no-repeat !important;}
+/*.user{background:url('../images/045631450.gif') !important;}
+.ad{background:url('../images/ad.gif') !important;}
+.money{background:url('../images/money.gif') !important;}
+.software{background:url('../images/software.gif') !important;}
+.systemmanage{background:url('../images/systemmanage.gif') !important;}
+.web{background:url('../images/web.gif') !important;}
+.linux{background:url('../images/linux.gif') !important;}
+.shop{background:url('../images/045631973.gif') !important;}*/
+
+.user{background:url('../images/s001.gif') no-repeat !important;}
+.ad{background:url('../images/s002.gif') no-repeat !important;}
+.money{background:url('../images/s003.gif') no-repeat !important;}
+.software{background:url('../images/s004.gif') no-repeat !important;}
+.systemmanage{background:url('../images/s005.gif') no-repeat !important;}
+.web{background:url('../images/s006.gif') no-repeat !important;}
+.linux{background:url('../images/s007.gif') no-repeat !important;}
+.shop{background:url('../images/s008.gif') no-repeat !important;}
+.data{background:url('../images/s009.gif') no-repeat !important;}
+.revenue{background:url('../images/s010.gif') no-repeat !important;}
+
+.see{background:url('../images/045631390.gif') no-repeat !important;}
+
+.money{background:url('../images/045631239.gif') no-repeat !important;}
